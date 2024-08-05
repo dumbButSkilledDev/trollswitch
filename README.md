@@ -1,7 +1,9 @@
 # trollswitch
 mig switch decompilation and documentation project
-# information
-checkout the wiki, theres some useful stuff there
+# current progress
+checkout the wiki!
 # FAQ
 # eta
-idk, im on phase one (extraction)
+idk, were on phase one (extraction)
+# how can i help
+checkout the wiki, and look, theres stuff we need noted there, and you can just open a pr with something you did! (we need to dump the migswitch rn)
