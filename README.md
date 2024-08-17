@@ -1,5 +1,7 @@
 # trollswitch
 mig switch decompilation and documentation project
+# to nintendio
+dont sue me, or take this down. tbh im doing you guys a favor (if you can even detect it).
 # current progress
 checkout the wiki!
 # FAQ
