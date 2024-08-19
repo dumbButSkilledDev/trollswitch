@@ -1,4 +1,5 @@
 # trollswitch
+# THIS PROJECT IS NOT FOR PIARCY, I DO NOT ENDORCE PIARCY. THE ONLY REASON THIS EXISTS, IS BECAUSE I FIND THE MIGSWITCH INTRESTING.
 mig switch decompilation and documentation project
 # to nintendio
 dont sue me, or take this down. tbh im doing you guys a favor (if you can even detect it).
