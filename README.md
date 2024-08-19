@@ -6,6 +6,6 @@ dont sue me, or take this down. tbh im doing you guys a favor (if you can even d
 checkout the wiki!
 # FAQ
 # eta
-idk, were on phase one (extraction)
+idk, were dumping fw as of this commit.
 # how can i help
 checkout the wiki, and look, theres stuff we need noted there, and you can just open a pr with something you did! (we need to dump the migswitch rn)
