@@ -11,7 +11,7 @@ checkout the wiki!
 ```
 # FAQ
 # eta
-idk, were dumping fw as of this commit.
+son
 # how can i help
 checkout the wiki, and look, theres stuff we need noted there, and you can just open a pr with something you did! (we need to dump the migswitch rn)
 # dose this have anything to do with unlockswitch
