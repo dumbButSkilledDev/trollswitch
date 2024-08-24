@@ -15,6 +15,7 @@ else
 fi
 
 INFO "this is not working yet"
+INFO "it not worky"
 
 # Build qemu
 INFO "Building qemu"
