@@ -5,6 +5,10 @@ mig switch decompilation and documentation project
 dont sue me, or take this down. tbh im doing you guys a favor (if you can even detect it).
 # current progress
 checkout the wiki!
+# setup
+```
+    $ git clone --recursive --depth=2 https://github.com/dumbButSkilledDev/trollswitch
+```
 # FAQ
 # eta
 idk, were dumping fw as of this commit.
