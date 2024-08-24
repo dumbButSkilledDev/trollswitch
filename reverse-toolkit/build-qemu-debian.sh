@@ -20,7 +20,7 @@ check_root
 # Install dependencies
 INFO "Installing dependencies"
 apt-get update
-apt-get install -y git build-essential libglib2.0-dev libpixman-1-dev
+apt-get install -y git build-essential libglib2.0-dev libpixman-1-dev ninja-build
 
 # check if qemu-xtensa-esp32s2 folder exists
 if [ -d "qemu-xtensa-esp32s2" ]; then
@@ -37,7 +37,7 @@ fi
 INFO "Building qemu"
 mkdir -p build
 cd build
-../configure
+../configure --disable-werror
 make -j$(nproc)
 make install
 
