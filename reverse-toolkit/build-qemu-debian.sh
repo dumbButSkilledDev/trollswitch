@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# THIS ONE WORKS
 function INFO() {
     echo "[INFO] $1"
 }
